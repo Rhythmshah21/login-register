@@ -1,4 +1,4 @@
-DATABASE IN FIREBASE
+
 ![image](https://user-images.githubusercontent.com/102286539/225368683-be7e9ce1-3a99-4002-8d77-c48fb561ddfb.png)
 
 
